@@ -1,0 +1,3 @@
+[submodule "simpleblack"]
+	path = themes/simpleblack
+	url = https://github.com/malexandre/hugo-theme-simpleblack.git
