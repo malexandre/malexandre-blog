@@ -1,0 +1,23 @@
+baseURL = "http://malexandre.fr"
+languageCode = "en-us"
+title = "Malexandre"
+enableRobotsTXT = true
+googleAnalytics = ""
+rssLimit = 20
+paginate = 20
+theme = "simpleblack"
+pygmentsuseclasses = false
+pygmentsstyle = "monokai"
+PygmentsCodeFences = true
+disqusShortname = "malexandre"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  subtitle = "Thoughts from a random software engineer"
+  author = "Marc Alexandre"
+  authorDescription = "Full-Stack Engineer for more than 5 years, working on performance, scalability and user experience. I grew a great knowledge of Python, Javascript, Node and Angular, but I also like to follow all the other technologies."
+  avatar = "/avatar.jpeg"
+  email = "blog@malexandre.fr"
+  themepath = "themes/simpleblack"
