@@ -1,3 +1,3 @@
 [submodule "themes/simpleblack"]
 	path = themes/simpleblack
-	url = git@github.com:malexandre/hugo-theme-simpleblack.git
+	url = https://github.com/malexandre/hugo-theme-simpleblack.git
