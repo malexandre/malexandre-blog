@@ -10,6 +10,7 @@ pygmentsuseclasses = false
 pygmentsstyle = "monokai"
 PygmentsCodeFences = true
 disqusShortname = "malexandre"
+googleAnalytics: "UA-12747818-2"
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
