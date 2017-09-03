@@ -2,7 +2,6 @@ baseURL = "http://malexandre.fr"
 languageCode = "en-us"
 title = "Malexandre"
 enableRobotsTXT = true
-googleAnalytics = ""
 rssLimit = 20
 paginate = 20
 theme = "simpleblack"
