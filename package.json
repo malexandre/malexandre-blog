@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "gulpfile.js",
   "license": "MIT",
+  "scripts": {
+    "theme": "git submodule update --remote --merge"
+  },
   "dependencies": {
     "del": "^3.0.0",
     "gulp": "^3.9.1",
