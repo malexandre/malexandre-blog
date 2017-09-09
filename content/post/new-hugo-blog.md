@@ -2,7 +2,7 @@
 title: "New Hugo Blog"
 author: Marc Alexandre
 date: 2017-08-20T12:05:57+02:00
-categories: ["Blog", "Ghost", "Hugo", "Pelican"]
+categories: ["Blog", "Ghost", "Hugo", "Pelican", "OVH"]
 ---
 
 I created lots of blogs in my life, about a lots of subjects. I did movies & video games reviews, personal, company & technical blogs. I used a lot of blogging solutions. One of my last blog, already hosted on my current domain, was I think my best blog. Maybe because I know more about my subject, but also by its technical aspect. Built with [Pelican], it was a static site. It got a lot of traffic. I would have kept its content in this new blog, basically the same blog with a different theme and a different site generator, but I messed up and lost all its content. I never pushed my old blog to git, for no reason. I had to format my computer with all the blog data (it was a company computer, and I was given a new one). I deleted my two backups from my USB drive & external hard drive, because of some partition type. And I forgot to renew my hosting, losing the built site himself. I wanted to blog again for a long time. In fact, I never wanted to stop, but I had a hard time finding the right work/life balance. Now I'm confident that I found it, and it's time to blog again. I'll start by telling why I chose to build my blog with [Hugo].
