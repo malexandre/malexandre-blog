@@ -2,7 +2,7 @@
 title: "Git Prompt With Go"
 date: 2017-09-02T14:24:27+02:00
 author: Marc Alexandre
-categories: ["Bash", "Git", "Go"]
+categories: ["Code", "Bash", "Git", "Go"]
 ---
 
 Some years ago, I wrote a custom git prompt with bash. I upgrade it a few times to fix bugs or add some features, but more and more I was discourage to rework it only because it was in Bash. My knowledge of Bash is slowly decreasing as now I make most of my scripts in Python or Javascript, and having to remember everytime how to do simple things like doing a loop or extracting values from a string demotivates me every time. It's not like it's just another syntax, Bash is a whole different beast from my everyday languages. But I still wanted to upgrade & fix my prompt.
