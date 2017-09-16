@@ -44,6 +44,6 @@ gulp.task("watchers", ["build"], () => {
   gulp.watch("assets/img/**/*", ["img"]);
 });
 
-gulp.task("hugo:dev", ["watchers"], plugins.shell.task(["hugo server"]));
+gulp.task("hugo:dev", ["watchers"], plugins.shell.task(["hugo server -D"]));
 gulp.task("hugo:build", ["build"], plugins.shell.task(["hugo"]));
 gulp.task("default", ["hugo:dev"]);
