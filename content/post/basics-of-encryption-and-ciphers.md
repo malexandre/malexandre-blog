@@ -28,7 +28,7 @@ def encrypt(plaintext, key):
     return ciphertext
 
 
-def decrpyt(ciphertext, key):
+def decrypt(ciphertext, key):
     key_ord = [ord(char) - ord(' ') for char in list(key)]
 
     plaintext = ''
