@@ -13,7 +13,7 @@ Two weeks ago, my 3 months notice came to an end, I left LumApps after 5 years a
 
 First, a preface. I have two dream companies: [Buffer] and [Doist]. Their culture and product are awesome, and I applied to each one as soon as I gave my 3 months notice. Everything else in this post can be applied to my process with them too, except the "finding a job opportunity" and the "searching to know the company" parts.
 
-In a previous post, I spoke about my Todoist organization to keep me productive. It was also the centerpiece of my job search. I like to focus on one personal project at a time, and for the last 2 months it was my job search. First, I created a recurring task, 3 times a week at 1 PM (in the middle of my lunch break), I had to go through a list of job boards focus on remote ones. Here they are, with a direct link to the engineering filter when available:
+In a previous post, I spoke about my [Todoist organization]({{< ref "my-todoist-wweekly-routine.md" >}}) to keep me productive. It was also the centerpiece of my job search. I like to focus on one personal project at a time, and for the last 2 months it was my job search. First, I created a recurring task, 3 times a week at 1 PM (in the middle of my lunch break), I had to go through a list of job boards focus on remote ones. Here they are, with a direct link to the engineering filter when available:
 
 - [Remotive](https://remotive.io/find-a-job/#s=1)
 - [WeWorkRemotely](https://weworkremotely.com/categories/2-programming/jobs#intro)

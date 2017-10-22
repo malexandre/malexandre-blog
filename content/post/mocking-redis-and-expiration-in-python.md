@@ -7,6 +7,8 @@ author: Marc Alexandre
 
 Recently, I had to use Redis for the first time. I heard of it, but never really played with it. But this time I had no choice, and I don't regret it at all, Redis is awesome. But having a new component means that I had to discover from scratch how to test it. I tried a few libraries, but one seemed really easy to use, at least to the point where I wanted to test that I was correctly using the expiration time for my data. But I'll tell you everything in this article.
 
+<!-- more -->
+
 ## My tests configuration
 
 After a few years, I'm becoming really efficient writing unit test in multiple languages, and in Python my test framework of choice is [Unittest]. It has a few advantages: It's available directly in the official libraries, it's simple yet powerful, and it does not go in your way. I also use pytest to run all the tests, just because I find it simpler to just call `pytest` instead of having to use the discover options from [Unittest]. I'm lazy like that.
