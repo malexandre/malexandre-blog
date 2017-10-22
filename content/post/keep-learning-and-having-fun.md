@@ -2,7 +2,7 @@
 title: "Keep Learning and Having Fun"
 date: 2017-10-22T14:02:53+02:00
 author: Marc Alexandre
-categories: ["Code"", "Python", "Todoist", "HackerRank", "LeetCode"]
+categories: ["Code", "Python", "Todoist", "HackerRank", "LeetCode"]
 ---
 
 I've been coding for a long time, my first steps were in the very late 90s. I became serious about it only around 2004. I started being paid for my work since 2008, and working full time since february 2010. I started by being heavily invested in C++, then move to web development in 2012, and still going at it today. And what's awesome is that I'm still having so much fun. And even though I'm now paid as a Senior Software Engineer, I'm still learning everyday.
@@ -21,7 +21,7 @@ I can't encourage other Software Engineer enough to learn new things. Maybe not 
 
 ## I just want to have fun
 
-Another way to learn, and still have fun, is through problem solving. Most of Software Engineer love to solve problems, so much than most of the job offerings mention how interesting their problematic are. And to keep me working on my algorithmics and some languages I might not use everyday anymore, I've been using site like [HackerRank] or [LeetCode]. In my [Todoist routine]({{< ref "my-todoist-wweekly-routine.md" >}}), I added a daily HackerRank Python exercise. I took me between 5 and 30 minutes every day. And now that I'm finished with all the Python exercises from the site, I switched to a weekly algorithm exercise. They tend to be longer, so I take 1h every Saturday to do one or more. And since I grew to love my daily exercise, I switched to [LeetCode] for the daily routine.
+Another way to learn, and still have fun, is through problem solving. Most of Software Engineer love to solve problems, so much than most of the job offerings mention how interesting their problematic are. And to keep me working on my algorithmics and some languages I might not use everyday anymore, I've been using site like [HackerRank] or [LeetCode]. In my [Todoist routine]({{< ref "my-todoist-weekly-routine.md" >}}), I added a daily HackerRank Python exercise. I took me between 5 and 30 minutes every day. And now that I'm finished with all the Python exercises from the site, I switched to a weekly algorithm exercise. They tend to be longer, so I take 1h every Saturday to do one or more. And since I grew to love my daily exercise, I switched to [LeetCode] for the daily routine.
 
 I just started with [LeetCode], but the questions seemed quite more fun than the one on [HackerRank]. Also, the site itself looks nicer and seems more reactive. And there is a weekly contest limited to 1h30, so my weekly routine might switch to [LeetCode] too. But I want to unlock Algorithms badges in [HackerRank] first !
 
